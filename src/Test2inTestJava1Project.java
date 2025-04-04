@@ -6,6 +6,10 @@ public class Test2inTestJava1Project {
         System.out.println("add new 44444");
         System.out.println("add new 55555");
         System.out.println("add new 66666");
+        System.out.println("add new 777777");
+
+
+        System.out.println("add new 66666");
 
 
     }
