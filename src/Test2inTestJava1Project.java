@@ -11,6 +11,7 @@ public class Test2inTestJava1Project {
         System.out.println("add new 99999");
 	    System.out.println("add 10 10 10" );
         System.out.println("add new 11 11 11 11 ");
+        System.out.println("add 12 12 12 12 ");
 
 
 
