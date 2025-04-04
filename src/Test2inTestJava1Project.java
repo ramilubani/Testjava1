@@ -9,7 +9,7 @@ public class Test2inTestJava1Project {
         System.out.println("add new 777777");
 
 
-        System.out.println("add new 66666");
+
 
 
     }
