@@ -8,6 +8,8 @@ public class Test2inTestJava1Project {
         System.out.println("add new 66666");
         System.out.println("add new 777777");
         System.out.println("add new 88888888");
+        System.out.println("add new 99999");
+
 
 
 
