@@ -5,6 +5,8 @@ public class Test2inTestJava1Project {
         System.out.println("add new commit2222 ");
         System.out.println("add new 44444");
         System.out.println("add new 55555");
+        System.out.println("add new 66666");
+
 
     }
 }
