@@ -1,5 +1,5 @@
 public class PhpTest {
-    public static void main(String[] args) {
+    public static void main(@org.jetbrains.annotations.NotNull String[] args) {
         System.out.println("sdfsdf");
 
         System.out.println("Number of arguments: " + args.length);
